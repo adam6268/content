@@ -1,9 +1,23 @@
-ports:
-    - port: 3000
-tasks:
-    - init:
-        npm install;
-      command: >
-        npm i gatsby-cli -g;
-        npm i now -g;
-        npm run start
+basic_info: Currently work in a restaurant. 
+education: bachelors level completed in Philippines
+experiences: restaurant line cook 
+Projects: enrolled in 4geeks data science bootcamp now on Day 8 class
+skills: Follow instructions and procedures 
+
+template: "online-cv"
+skin: "blue"
+
+basic_info:
+
+Name: Adam Val
+tagline: data scientist 
+avatar: profile.png
+
+email:adamcanton1997@gmail.com 
+phone: 123 456 7890
+website: https://github.com/adam6268
+linkedin: Adam Val
+ 
+
+
+
